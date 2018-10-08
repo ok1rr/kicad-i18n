@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: kicad\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-18 21:11+0200\n"
-"PO-Revision-Date: 2018-10-05 10:43+0200\n"
+"PO-Revision-Date: 2018-10-08 10:02+0200\n"
 "Last-Translator: Martin Kratoška <martin@ok1rr.com>\n"
 "Language-Team: Čeština <cs@li.org>\n"
 "Language: cs\n"
@@ -10170,7 +10170,7 @@ msgstr "Smazat kresbu"
 
 #: eeschema/onrightclick.cpp:314
 msgid "Move Reference"
-msgstr "Přemístit referenci"
+msgstr "Přesunout odkaz"
 
 #: eeschema/onrightclick.cpp:315
 msgid "Move Value"
@@ -10251,7 +10251,7 @@ msgstr "Návrat na výchozí"
 #: pcbnew/onrightclick.cpp:789 pcbnew/tools/edit_tool.cpp:112
 #: pcbnew/tools/edit_tool.cpp:116
 msgid "Duplicate"
-msgstr "Duplikát"
+msgstr "Duplikovat"
 
 #: eeschema/onrightclick.cpp:414
 msgid "Open Documentation"
@@ -15776,7 +15776,7 @@ msgstr "Nelze nahradit symbol \"%s:%s\" kvůli chybějícímu pouzdru \"%s\".\n"
 #: pcbnew/board_netlist_updater.cpp:259
 #, c-format
 msgid "Change symbol %s reference to %s.\n"
-msgstr "Změnit referenci symbolu %s na %s.\n"
+msgstr "Změnit odkaz symbolu %s na %s.\n"
 
 #: pcbnew/board_netlist_updater.cpp:265
 #, c-format
@@ -23374,7 +23374,7 @@ msgstr "Vlastnosti plošky"
 
 #: pcbnew/footprint_editor_utils.cpp:1017
 msgid "Cannot delete REFERENCE!"
-msgstr "Nelze smazat REFERENCI!"
+msgstr "Nelze smazat ODKAZ!"
 
 #: pcbnew/footprint_editor_utils.cpp:1021
 msgid "Cannot delete VALUE!"
